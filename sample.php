@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html> 
-      <head>
-            <title> sample setup </title>
-      </head>
+<html>
+    <head>
+        <title> sample php</title>
+    </head>
     <body>
-        <h3> This is my sample page</h3>
-        <p> Praveen Kumar </p>
+        <h2> This s sample page</h2>
+        <h3> my First Task </h3>
+        <p> my internship </p> 
     </body>
 </html>
